@@ -1,0 +1,1 @@
+I hope this will be a good example of component oriented application design with vanillajs.

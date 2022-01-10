@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.joke {
+  width: 70%;
+  padding: 10px;
+  text-align: center;
+  background-color: beige;
+  border: 1px solid black;
+}
+
+.small-joke {
+  width: 30%;
+  padding: 5px;
+  text-align: left;
+  background-color: beige;
+  border: 1px solid red;
+}
